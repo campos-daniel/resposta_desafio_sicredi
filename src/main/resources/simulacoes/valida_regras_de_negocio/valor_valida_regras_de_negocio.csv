@@ -1,0 +1,5 @@
+41000.00, Valor deve ser menor ou igual a R$ 40.000
+40000.01, Valor deve ser menor ou igual a R$ 40.000
+40001.00, Valor deve ser menor ou igual a R$ 40.000
+999.99, Valor deve ser menor ou igual a R$ 1.000
+999.00, Valor deve ser menor ou igual a R$ 1.000
